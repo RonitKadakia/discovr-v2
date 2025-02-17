@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    // ... other dependencies
     "tailwindcss": "^3.4.17"
   }
 }
-
